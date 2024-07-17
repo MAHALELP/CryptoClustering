@@ -7,7 +7,7 @@ This project focuses on clustering cryptocurrencies based on their market data u
 ## Project Overview
 The main objective is to analyze how cryptocurrencies perform based on their price change percentages over time. Here’s a breakdown of what we’ve done:
 
-* Data Loading and Preprocessing:
+** Data Loading and Preprocessing:
 We start by loading the cryptocurrency market data from a CSV file (crypto_market_data.csv).
 The data is then standardized to ensure fair comparisons across different features using standard scaling.
 
